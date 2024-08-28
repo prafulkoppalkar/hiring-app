@@ -1,5 +1,3 @@
-// models/Education.js
-
 const { DataTypes } = require("sequelize");
 const sequelize = require("../config/database");
 
